@@ -1,7 +1,7 @@
 # AirBnB Market Trends in Bangkok
 Bangkok City has a variety of Airbnb listings to meet the high demand for temporary lodging for travelers, with several different price levels, room types, and locations.  Importing, cleaning data, data manipulation and report insights.
 
-![Bangkok]([http://url/to/img.png](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/4c/88/5b/caption.jpg?w=1200&h=-1&s=1&cx=1920&cy=1080&chk=v1_deaaf3fa64856c454c3e))
+![Bangkok]([http://url/to/img.png](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/4c/88/5b/caption.jpg?w=1200&h=-1&s=1&cx=1920&cy=1080&chk=v1_deaaf3fa64856c454c3e)
 
 ## Data Sources
 
